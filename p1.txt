@@ -1,0 +1,5 @@
+../../HM-16.2/cfg/encoder_lowdelay_main.cfg,
+../../HM-16.2/cfg/per-sequence/BasketballPass.cfg,../../HM-16.2/cfg/per-sequence/BQSquare.cfg,
+3,5,
+32,37,
+32,64,
